@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-sweet-intimacy-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deep Sweet Intimacy Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sweet-intimacy-now/) |
+| **Get License** | [Request Licensing for Deep Sweet Intimacy Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sweet-intimacy-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your shadow sweeps across this sleepy town
+> Ooh, the night is falling down
+> Come a little closer, let the embers glow
+> There’s a secret in the dark only we could know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
